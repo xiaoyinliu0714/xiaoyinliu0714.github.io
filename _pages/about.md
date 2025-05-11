@@ -45,5 +45,4 @@ My research will focus on [Cobodied AI](http://scis.scichina.com/cn/2025/SSI-202
 - *2023.09 - Present*, Ph.D. candidate, Institute of Automation, Chinese Academy of Sciences, Beijing, China.
 - *2019.09 - 2023.06*, Undergraduate, Department of Automation, China University of Petroleum (East China), Qingdao, China. 
 
-#
-#
+#  
