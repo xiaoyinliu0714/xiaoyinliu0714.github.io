@@ -20,15 +20,15 @@ My research will focus on [Cobodied AI](http://scis.scichina.com/cn/2025/SSI-202
 
 # 📝 Publications 
 ## Journals
-- **Xiaoyin Liu**, Guotao Li*, Xiaohu Zhou, Xu Liang, Zengguang Hou*, “A Weight-aware-based Multi-source Unsupervised Domain Adaptation Method for Human Motion Intention Recognition”, *IEEE Transactions on Cybernetics* (**TCYB**), 2025. [[Paper](https://arxiv.org/abs/2404.15366)] [[Code](https://github.com/xiaoyinliu0714/WMDD)]
-- **Xiaoyin Liu**, Ning Li, Jun Guo, Zhongyong Fan, Xiaoping Lu*, Weifeng Liu*, Baodi Liu, “Multistep-Ahead Prediction of Ocean SSTA Based on Hybrid Empirical Mode Decomposition and Gated Recurrent Unit Model”, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (**J-STARS**), 2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9866103)]
+- **Xiaoyin Liu**, Guotao Li$^\*$, Xiaohu Zhou, Xu Liang, Zengguang Hou$^\*$, “A Weight-aware-based Multi-source Unsupervised Domain Adaptation Method for Human Motion Intention Recognition”, *IEEE Transactions on Cybernetics* (**TCYB**), 2025. [[Paper](https://arxiv.org/abs/2404.15366)] [[Code](https://github.com/xiaoyinliu0714/WMDD)]
+- **Xiaoyin Liu**, Ning Li, Jun Guo, Zhongyong Fan, Xiaoping Lu$^\*$, Weifeng Liu$^\*$, Baodi Liu, “Multistep-Ahead Prediction of Ocean SSTA Based on Hybrid Empirical Mode Decomposition and Gated Recurrent Unit Model”, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (**J-STARS**), 2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9866103)]
 
 ## Conferences
-- **Xiaoyin Liu**, Xiaohu Zhou*, Guotao Li, Hao Li, Meijiang Gui, Tainyu Xiang, Dexaing Huang, Zengguang Hou*, “MICRO: Model-Based Offline Reinforcement Learning with a Conservative Bellman Operator”, *the 33th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2024. [[Paper](https://arxiv.org/abs/2312.03991)] [[Code](https://github.com/xiaoyinliu0714/MICRO)]
+- **Xiaoyin Liu**, Xiaohu Zhou$^\*$, Guotao Li, Hao Li, Meijiang Gui, Tainyu Xiang, Dexaing Huang, Zengguang Hou$^\*$, “MICRO: Model-Based Offline Reinforcement Learning with a Conservative Bellman Operator”, *the 33th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2024. [[Paper](https://arxiv.org/abs/2312.03991)] [[Code](https://github.com/xiaoyinliu0714/MICRO)]
 
 ## Preprints
-- **Xiaoyin Liu**, Guotao Li*, Xiaohu Zhou, Zengguang Hou*, “LEASE: Offline Preference-based Reinforcement Learning with High Sample Efficiency”, Under Review. [[Paper](https://arxiv.org/abs/2412.21001)] [[Code](https://github.com/xiaoyinliu0714/LEASE)]
-- **Xiaoyin Liu**, Xiaohu Zhou*, Meijiang Gui, Guotao Li, Zengguang Hou*, “DOMAIN: MilDly COnservative Model-BAsed OfflINe Reinforcement Learning”, Under Review. [[Paper](https://arxiv.org/abs/2309.08925)]
+- **Xiaoyin Liu**, Guotao Li$^\*$, Xiaohu Zhou, Zengguang Hou$^\*$, “LEASE: Offline Preference-based Reinforcement Learning with High Sample Efficiency”, Under Review. [[Paper](https://arxiv.org/abs/2412.21001)] [[Code](https://github.com/xiaoyinliu0714/LEASE)]
+- **Xiaoyin Liu**, Xiaohu Zhou$^\*$, Meijiang Gui, Guotao Li, Zengguang Hou$^\*$, “DOMAIN: MilDly COnservative Model-BAsed OfflINe Reinforcement Learning”, Under Review. [[Paper](https://arxiv.org/abs/2309.08925)]
 
 # 🎖 Honors and Awards
 ## Academic Awards
