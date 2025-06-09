@@ -15,11 +15,13 @@ I am currently a Ph.D. student at Medical Robotics Lab, [State Key Laboratory of
 
 My research will focus on [Cobodied AI](http://scis.scichina.com/cn/2025/SSI-2024-0219.pdf), which aims to achieve profound alignment between robotic and human cognition, as well as human-centered efficient environmental interaction and feedback. Specifically, the goal of my research is to ensure that exoskeleton robots can provide efficient and personalized assistance across diverse environments and for varied users. I am exploring accurate human intent and motion preference recognition, and human-environment-adaptive robot interaction learning methods.
 # 🔥 News
+- [*2025.06*] One paper (DOMAIN) is accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 - [*2025.05*] One paper (WMDD) is accepted by IEEE Transactions on Cybernetics.
 - [*2024.04*] One paper (MICRO) is accepted by the 33th International Joint Conference on Artificial Intelligence.
 
 # 📝 Publications 
 ## Journals
+- **Xiaoyin Liu**, Xiaohu Zhou$^\*$, Meijiang Gui, Guotao Li, Zengguang Hou$^\*$ *et al.*, “DOMAIN: MilDly COnservative Model-BAsed OfflINe Reinforcement Learning”, *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (**TSMC**), 2025. [[Paper](https://arxiv.org/abs/2309.08925)]
 - **Xiaoyin Liu**, Guotao Li$^\*$, Xiaohu Zhou, Xu Liang, Zengguang Hou$^\*$, “A Weight-aware-based Multi-source Unsupervised Domain Adaptation Method for Human Motion Intention Recognition”, *IEEE Transactions on Cybernetics* (**TCYB**), 2025. [[Paper](https://arxiv.org/abs/2404.15366)] [[Code](https://github.com/xiaoyinliu0714/WMDD)]
 - **Xiaoyin Liu**, Ning Li, Jun Guo, Zhongyong Fan, Xiaoping Lu$^\*$, Weifeng Liu$^\*$, Baodi Liu, “Multistep-Ahead Prediction of Ocean SSTA Based on Hybrid Empirical Mode Decomposition and Gated Recurrent Unit Model”, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (**J-STARS**), 2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9866103)]
 
@@ -28,7 +30,6 @@ My research will focus on [Cobodied AI](http://scis.scichina.com/cn/2025/SSI-202
 
 ## Preprints
 - **Xiaoyin Liu**, Guotao Li$^\*$, Xiaohu Zhou, Zengguang Hou$^\*$, “LEASE: Offline Preference-based Reinforcement Learning with High Sample Efficiency”, Under Review. [[Paper](https://arxiv.org/abs/2412.21001)] [[Code](https://github.com/xiaoyinliu0714/LEASE)]
-- **Xiaoyin Liu**, Xiaohu Zhou$^\*$, Meijiang Gui, Guotao Li, Zengguang Hou$^\*$, “DOMAIN: MilDly COnservative Model-BAsed OfflINe Reinforcement Learning”, Under Review. [[Paper](https://arxiv.org/abs/2309.08925)]
 
 # 🎖 Honors and Awards
 ## Academic Awards
@@ -45,4 +46,3 @@ My research will focus on [Cobodied AI](http://scis.scichina.com/cn/2025/SSI-202
 - *2023.09 - Present*, Ph.D. candidate, Institute of Automation, Chinese Academy of Sciences, Beijing, China.
 - *2019.09 - 2023.06*, Undergraduate, Department of Automation, China University of Petroleum (East China), Qingdao, China. 
 
-#  
