@@ -33,7 +33,7 @@ My research will focus on [Cobodied AI](http://scis.scichina.com/cn/2025/SSI-202
 
 # 🎖 Honors and Awards
 ## Academic Awards
-- [*2025.06*] The 5rd Direct Ph.D. Pilot Program (直博实验班) of Institute of Automation.
+- [*2025.06*] The 5rd Direct Ph.D. Pilot Program (直博实验班) of Institute of Automation (1/11).
 - [*2023.03*] Technology Star of China University of Petroleum (East China) (top 10).
 - [*2022.05*] Outstanding Student of Shandong Province (top 0.5%).
 - [*2021.11*] China Undergraduate Mathematical Contest in Modeling, First Prize (top 0.7%).
