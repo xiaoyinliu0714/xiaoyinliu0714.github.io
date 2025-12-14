@@ -11,7 +11,7 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/), Chinese Academy of Sciences, advised by [Prof. Zeng-Guang Hou](https://people.ucas.ac.cn/~houzengguang) and [Prof. Guotao Li](https://ia.cas.cn/rcdw/fyjy/202409/t20240913_7362784.html). My research interests include human-robot interaction, reinforcement learning and preference learning. My research will focus on [Cobodied AI](http://scis.scichina.com/cn/2025/SSI-2024-0219.pdf), which aims to achieve profound alignment between robotic and human under complex environment. Specifically, the goal of my research is to ensure that exoskeleton robots can provide efficient and personalized assistance across diverse environments and for varied users.
+I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/), Chinese Academy of Sciences, advised by [Prof. Zeng-Guang Hou](https://people.ucas.ac.cn/~houzengguang) and [Prof. Guotao Li](https://ia.cas.cn/rcdw/fyjy/202409/t20240913_7362784.html). My research interests include human-robot interaction, reinforcement learning and preference learning. My research will focus on [Cobodied AI](http://scis.scichina.com/cn/2025/SSI-2024-0219.pdf), which aims to achieve profound alignment between robotic and human under complex environment. Specifically, the goal of my research is to ensure that exoskeleton robots can provide efficient assistance across diverse environments for different individuals.
 # 🔥 News
 - [*2025.06*] One paper (DOMAIN) is accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 - [*2025.05*] One paper (WMDD) is accepted by IEEE Transactions on Cybernetics.
@@ -31,11 +31,11 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 
 # 🎖 Honors and Awards
 ## Academic Awards
-- [*2025.08*] International Invention Exhibition Gold Award and Macao Foundation Invention Award (top 0.4%).
+- [*2025.08*] International Invention Exhibition Gold Award and Macao Foundation Invention Award (0.4%).
 - [*2025.06*] The 5rd Direct Ph.D. Pilot Program (直博实验班) of Institute of Automation (1/11).
-- [*2023.03*] Technology Star of China University of Petroleum (East China) (top 10).
-- [*2022.05*] Outstanding Student of Shandong Province (top 0.5%).
-- [*2021.11*] China Undergraduate Mathematical Contest in Modeling, First Prize (top 0.7%).
+- [*2023.03*] Technology Star of China University of Petroleum (East China) (1/10).
+- [*2022.05*] Outstanding Student of Shandong Province (0.5%).
+- [*2021.11*] China Undergraduate Mathematical Contest in Modeling, First Prize (0.7%).
 
 ## Scholarship
 - [*2022.12*] China National Scholarship (Undergraduate).
