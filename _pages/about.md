@@ -31,6 +31,7 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 
 # 🎖 Honors and Awards
 ## Academic Awards
+- [*2025.12*] Doctoral Special Project under the Youth Science and Technology Talent Development Program (青培博士).
 - [*2025.08*] International Invention Exhibition Gold Award and Macao Foundation Invention Award (0.4%).
 - [*2025.06*] The 5rd Direct Ph.D. Pilot Program (直博实验班) of Institute of Automation (1/11).
 - [*2023.03*] Technology Star of China University of Petroleum (East China) (1/10).
