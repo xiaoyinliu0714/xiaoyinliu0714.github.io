@@ -38,7 +38,7 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 - [*2022.05*] Outstanding Student of Shandong Province (0.5%).
 - [*2021.11*] China Undergraduate Mathematical Contest in Modeling, First Prize (0.7%).
 
-## Scholarship
+## Scholarships
 - [*2022.12*] China National Scholarship (Undergraduate).
 - [*2021.12*] China National Scholarship (Undergraduate).
 - [*2020.12*] China National Scholarship (Undergraduate).
