@@ -29,7 +29,7 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 - **Xiaoyin Liu**, Xiaohu Zhou$^\*$, Guotao Li, Hao Li, Meijiang Gui, Tainyu Xiang, Dexaing Huang, Zengguang Hou$^\*$, “MICRO: Model-based offline reinforcement learning with a conservative bellman operator”, *the 33th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2024. [[Paper](https://arxiv.org/abs/2312.03991)] [[Code](https://github.com/xiaoyinliu0714/MICRO)]
 
 ## Preprints
-
+- **Xiaoyin Liu**, Guotao Li$^\*$, Long Sun, Xu Liang, Zengguang Hou$^\*$, "ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments", arxiv preprint, 2026. [[Project Page](https://xiaoyinliu0714.github.io/Home_ExoTraj/)]
 
 # 🎖 Honors and Awards
 ## Academic Awards
