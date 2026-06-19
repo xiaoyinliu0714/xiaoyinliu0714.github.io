@@ -13,10 +13,10 @@ redirect_from:
 I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/), Chinese Academy of Sciences, advised by [Prof. Zeng-Guang Hou](https://people.ucas.ac.cn/~houzengguang) and [Prof. Guotao Li](https://ia.cas.cn/rcdw/fyjy/202409/t20240913_7362784.html). My research interests include human-robot interaction, reinforcement learning, and preference learning. My research will focus on [Cobodied AI](http://scis.scichina.com/cn/2025/SSI-2024-0219.pdf), which aims to achieve profound alignment between robotic and human in complex environments. Specifically, the goal of my research is to ensure that exoskeleton robots can provide efficient assistance across diverse environments for different individuals.
 
 # 🔥 News
-- [*2026.02*] One paper (LEASE) is accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
-- [*2025.06*] One paper (DOMAIN) is accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
-- [*2025.05*] One paper (WMDD) is accepted by IEEE Transactions on Cybernetics.
-- [*2024.04*] One paper (MICRO) is accepted by the 33th International Joint Conference on Artificial Intelligence.
+- [*2026.02*] One paper (LEASE) is accepted by IEEE TSMC.
+- [*2025.06*] One paper (DOMAIN) is accepted by IEEE TSMC.
+- [*2025.05*] One paper (WMDD) is accepted by IEEE TCYB.
+- [*2024.04*] One paper (MICRO) is accepted by IJCAI 2024.
 
 # 📝 Publications 
 ## Journals
