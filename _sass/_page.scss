@@ -66,8 +66,12 @@
     border-bottom: 1px solid $border-color;
   }
 
+  /* 段落、列表、定义列表统一设置两端对齐 */
   p, li, dl {
     font-size: 1em;
+    text-align: justify;           /* 核心：左右两端对齐 */
+    text-justify: inter-character; /* 优化中文排版，让字间距更均匀 */
+    word-break: break-word;        /* 防止长单词/长链接撑破布局 */
   }
 
   /* paragraph indents */
@@ -81,6 +85,12 @@
         margin-top: -($indent-var);
       }
     }
+  }
+
+  /* 新增：特殊元素重置为左对齐，避免排版错乱 */
+  pre, code, table, th, td {
+    text-align: left;
+    text-justify: auto;
   }
 
   a {
