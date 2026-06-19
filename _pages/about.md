@@ -24,7 +24,7 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 - **Xiao-Yin Liu**, Guotao Li$^\*$, Xiao-Hu Zhou, Xu Liang, Zeng-Guang Hou$^\*$, “[A weight-aware-based multi-source unsupervised domain adaptation method for human motion intention recognition](https://arxiv.org/abs/2404.15366)”, *IEEE Transactions on Cybernetics* (**TCYB**), 2025. [[Code](https://github.com/xiaoyinliu0714/WMDD)]
 
 ## Conferences
-- **Xiao-Yin Liu**, Xiaoh-Hu Zhou$^\*$, Guotao Li, Hao Li, Mei-Jiang Gui, Tain-Yu Xiang, De-Xing Huang, Zeng-Guang Hou$^\*$, “[MICRO: Model-based offline reinforcement learning with a conservative bellman operator](https://arxiv.org/abs/2312.03991)”, *the 33th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2024. [[Code](https://github.com/xiaoyinliu0714/MICRO)]
+- **Xiao-Yin Liu**, Xiaoh-Hu Zhou$^\*$, Guotao Li, Hao Li, Zeng-Guang Hou$^\*$ *et al.*, “[MICRO: Model-based offline reinforcement learning with a conservative bellman operator](https://arxiv.org/abs/2312.03991)”, *the 33th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2024. [[Code](https://github.com/xiaoyinliu0714/MICRO)]
 
 ## Preprints
 - **Xiao-Yin Liu**, Guotao Li$^\*$, Long Sun, Xu Liang, Zeng-Guang Hou$^\*$, "[ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments](https://arxiv.org/abs/2606.16876)", arxiv preprint, 2026. [[Project Page](https://xiaoyinliu0714.github.io/Home_ExoTraj/)]
