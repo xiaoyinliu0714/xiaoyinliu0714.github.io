@@ -20,15 +20,15 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 
 # 📝 Publications 
 ## Journals
-- **Xiaoyin Liu**, Guotao Li$^\*$, Xiaohu Zhou, Zengguang Hou$^\*$, “LEASE: Offline preference-based reinforcement learning with high sample efficiency”, *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (**TSMC**), 2026. [[Paper](https://arxiv.org/abs/2412.21001)] [[Code](https://github.com/xiaoyinliu0714/LEASE)]
-- **Xiaoyin Liu**, Xiaohu Zhou$^\*$, Meijiang Gui, Guotao Li, Zengguang Hou$^\*$ *et al.*, “DOMAIN: Mildly conservative model-based offline reinforcement learning”, *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (**TSMC**), 2025. [[Paper](https://arxiv.org/abs/2309.08925)]
-- **Xiaoyin Liu**, Guotao Li$^\*$, Xiaohu Zhou, Xu Liang, Zengguang Hou$^\*$, “A weight-aware-based multi-source unsupervised domain adaptation method for human motion intention recognition”, *IEEE Transactions on Cybernetics* (**TCYB**), 2025. [[Paper](https://arxiv.org/abs/2404.15366)] [[Code](https://github.com/xiaoyinliu0714/WMDD)]
+- **Xiao-Yin Liu**, Guotao Li$^\*$, Xiao-Hu Zhou, Zeng-Guang Hou$^\*$, “[LEASE: Offline preference-based reinforcement learning with high sample efficiency](https://arxiv.org/abs/2412.21001)”, *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (**TSMC**), 2026.[[Code](https://github.com/xiaoyinliu0714/LEASE)]
+- **Xiao-Yin Liu**, Xiao-Hu Zhou$^\*$, Meij-Jiang Gui, Guotao Li, Zeng-Guang Hou$^\*$ *et al.*, “[DOMAIN: Mildly conservative model-based offline reinforcement learning](https://arxiv.org/abs/2309.08925)”, *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (**TSMC**), 2025.
+- **Xiaoyin Liu**, Guotao Li$^\*$, Xiaohu Zhou, Xu Liang, Zengguang Hou$^\*$, “[A weight-aware-based multi-source unsupervised domain adaptation method for human motion intention recognition](https://arxiv.org/abs/2404.15366)”, *IEEE Transactions on Cybernetics* (**TCYB**), 2025. [[Code](https://github.com/xiaoyinliu0714/WMDD)]
 
 ## Conferences
-- **Xiaoyin Liu**, Xiaohu Zhou$^\*$, Guotao Li, Hao Li, Meijiang Gui, Tainyu Xiang, Dexaing Huang, Zengguang Hou$^\*$, “MICRO: Model-based offline reinforcement learning with a conservative bellman operator”, *the 33th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2024. [[Paper](https://arxiv.org/abs/2312.03991)] [[Code](https://github.com/xiaoyinliu0714/MICRO)]
+- **Xiao-Yin Liu**, Xiaoh-Hu Zhou$^\*$, Guotao Li, Hao Li, Mei-Jiang Gui, Tain-Yu Xiang, De-Xing Huang, Zeng-Guang Hou$^\*$, “[MICRO: Model-based offline reinforcement learning with a conservative bellman operator](https://arxiv.org/abs/2312.03991)”, *the 33th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2024. [[Code](https://github.com/xiaoyinliu0714/MICRO)]
 
 ## Preprints
-- **Xiaoyin Liu**, Guotao Li$^\*$, Long Sun, Xu Liang, Zengguang Hou$^\*$, "ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments", arxiv preprint, 2026. [[Project Page](https://xiaoyinliu0714.github.io/Home_ExoTraj/)]
+- **Xiao-Yin Liu**, Guotao Li$^\*$, Long Sun, Xu Liang, Zeng-Guang Hou$^\*$, "[ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments](https://arxiv.org/abs/2606.16876)", arxiv preprint, 2026. [[Project Page](https://xiaoyinliu0714.github.io/Home_ExoTraj/)]
 
 # 🎖 Honors and Awards
 ## Academic Awards
