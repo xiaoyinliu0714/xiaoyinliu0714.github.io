@@ -28,6 +28,7 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 
 ## Preprints
 - **Xiao-Yin Liu**, Guotao Li$^\*$, Long Sun, Xu Liang, Zeng-Guang Hou$^\*$, "[ExoTraj: A general lower-limb exoskeleton assistance policy for complex environments](https://arxiv.org/abs/2606.16876)", arxiv preprint, 2026. [[Project Page](https://xiaoyinliu0714.github.io/Home_ExoTraj/)]
+- **Xiao-Yin Liu**, Guotao Li$^\*$, Weiqun Wang, Zeng-Guang Hou$^\*$, "[Personalized lower-limb exoskeleton assistance via preference-based Bayesian optimization](https://arxiv.org/abs/2608.09015)", arxiv preprint, 2026. [[Page](https://www.youtube.com/watch?v=8X1SFqUU4G4)]
 
 # 🎖 Honors and Awards
 ## Academic Awards
