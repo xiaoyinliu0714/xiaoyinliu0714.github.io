@@ -20,7 +20,7 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 # 📝 Publications 
 ## Journals
 - **Xiao-Yin Liu**, Guotao Li$^\*$, Xiao-Hu Zhou, Zeng-Guang Hou$^\*$, “[LEASE: Offline preference-based reinforcement learning with high sample efficiency](https://arxiv.org/abs/2412.21001)”, *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (**TSMC**), 2026.[[Code](https://github.com/xiaoyinliu0714/LEASE)]
-- **Xiao-Yin Liu**, Xiao-Hu Zhou$^\*$, Meij-Jiang Gui, Guotao Li, Zeng-Guang Hou$^\*$ *et al.*, “[DOMAIN: Mildly conservative model-based offline reinforcement learning](https://arxiv.org/abs/2309.08925)”, *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (**TSMC**), 2025.
+- **Xiao-Yin Liu**, Xiao-Hu Zhou$^\*$, Mei-Jiang Gui, Guotao Li, Zeng-Guang Hou$^\*$ *et al.*, “[DOMAIN: Mildly conservative model-based offline reinforcement learning](https://arxiv.org/abs/2309.08925)”, *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (**TSMC**), 2025.
 - **Xiao-Yin Liu**, Guotao Li$^\*$, Xiao-Hu Zhou, Xu Liang, Zeng-Guang Hou$^\*$, “[A weight-aware-based multi-source unsupervised domain adaptation method for human motion intention recognition](https://arxiv.org/abs/2404.15366)”, *IEEE Transactions on Cybernetics* (**TCYB**), 2025. [[Code](https://github.com/xiaoyinliu0714/WMDD)]
 
 ## Conferences
