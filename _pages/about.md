@@ -49,4 +49,4 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 - *2019.09 - 2023.06*, Undergraduate, Department of Automation, China University of Petroleum (East China), Qingdao, China. 
 
 # 👥 Services
-Reviewer for Journals (**IEEE TRO, IEEE TCYB, IEEE TCSVT**) and Conferences (**ICLR**).
+Reviewer for Journals (**IEEE TRO, IEEE TCYB, IEEE TCSVT**) and Conference (**ICLR**).
