@@ -18,6 +18,10 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 - [*2024.04*] One paper (MICRO) is accepted by IJCAI 2024.
 
 # 📝 Publications 
+## Preprints
+- **Xiao-Yin Liu**, Guotao Li$^\*$, Long Sun, Xu Liang, Zeng-Guang Hou$^\*$, "[ExoTraj: A general lower-limb exoskeleton assistance policy for complex environments](https://arxiv.org/abs/2606.16876)", arxiv preprint, 2026. [[Project Page](https://xiaoyinliu0714.github.io/Home_ExoTraj/)]
+- **Xiao-Yin Liu**, Guotao Li$^\*$, Weiqun Wang, Zeng-Guang Hou$^\*$, "[Personalized lower-limb exoskeleton assistance via preference-based Bayesian optimization](https://arxiv.org/abs/2608.09015)", arxiv preprint, 2026. [[Movie](https://www.youtube.com/watch?v=8X1SFqUU4G4)]
+
 ## Journals
 - **Xiao-Yin Liu**, Guotao Li$^\*$, Xiao-Hu Zhou, Zeng-Guang Hou$^\*$, “[LEASE: Offline preference-based reinforcement learning with high sample efficiency](https://arxiv.org/abs/2412.21001)”, *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (**TSMC**), 2026.[[Code](https://github.com/xiaoyinliu0714/LEASE)]
 - **Xiao-Yin Liu**, Xiao-Hu Zhou$^\*$, Mei-Jiang Gui, Guotao Li, Zeng-Guang Hou$^\*$ *et al.*, “[DOMAIN: Mildly conservative model-based offline reinforcement learning](https://arxiv.org/abs/2309.08925)”, *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (**TSMC**), 2025.
@@ -25,10 +29,6 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 
 ## Conferences
 - **Xiao-Yin Liu**, Xiao-Hu Zhou$^\*$, Guotao Li, Hao Li, Zeng-Guang Hou$^\*$ *et al.*, “[MICRO: Model-based offline reinforcement learning with a conservative bellman operator](https://arxiv.org/abs/2312.03991)”, *the 33th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2024. [[Code](https://github.com/xiaoyinliu0714/MICRO)]
-
-## Preprints
-- **Xiao-Yin Liu**, Guotao Li$^\*$, Long Sun, Xu Liang, Zeng-Guang Hou$^\*$, "[ExoTraj: A general lower-limb exoskeleton assistance policy for complex environments](https://arxiv.org/abs/2606.16876)", arxiv preprint, 2026. [[Project Page](https://xiaoyinliu0714.github.io/Home_ExoTraj/)]
-- **Xiao-Yin Liu**, Guotao Li$^\*$, Weiqun Wang, Zeng-Guang Hou$^\*$, "[Personalized lower-limb exoskeleton assistance via preference-based Bayesian optimization](https://arxiv.org/abs/2608.09015)", arxiv preprint, 2026. [[Movie](https://www.youtube.com/watch?v=8X1SFqUU4G4)]
 
 # 🎖 Honors and Awards
 ## Academic Awards
