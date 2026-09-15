@@ -16,7 +16,7 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
   <img 
     src="../images/Figure_00.png" 
     alt="Schematic diagram of the research framework"
-    style="width: 96%; max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 6px;"
+    style="width: 85%; max-width: 96%; height: auto; display: block; margin: 0 auto; border-radius: 6px;"
   >
 </div>
 
