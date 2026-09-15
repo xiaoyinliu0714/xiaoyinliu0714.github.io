@@ -14,8 +14,8 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 
 <div align="center">
   <img 
-    src="你的图片地址" 
-    alt="共身智能与外骨骼机器人研究示意图"
+    src="images/Figure_00.png" 
+    alt="Schematic diagram of the research framework"
     style="width: 85%; max-width: 600px; border-radius: 6px; margin: 16px 0;"
   >
 </div>
