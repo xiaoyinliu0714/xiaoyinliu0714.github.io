@@ -14,7 +14,7 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 
 <div align="center">
   <img 
-    src="images/Figure_00.png" 
+    src="../images/Figure_00.png" 
     alt="Schematic diagram of the research framework"
     style="width: 85%; max-width: 600px; border-radius: 6px; margin: 16px 0;"
   >
