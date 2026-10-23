@@ -41,6 +41,7 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 - [*2021.11*] First Prize in the China Undergraduate Mathematical Contest in Modeling (0.7%).
   
 ## Scholarships
+- [*2026.10*] BYD Scholarship.
 - [*2022.12*] China National Scholarship (Undergraduate).
 - [*2021.12*] China National Scholarship (Undergraduate).
 - [*2020.12*] China National Scholarship (Undergraduate).
