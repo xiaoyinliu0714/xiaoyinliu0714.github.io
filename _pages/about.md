@@ -34,17 +34,15 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 # 🎖 Honors and Awards
 ## Academic Awards
 - [*2025.12*] Doctoral Special Project under the Youth Science and Technology Talent Development Program (青培博士).
-- [*2025.08*] International Invention Exhibition Gold Award and Macao Foundation Invention Award (0.4%).
 - [*2025.06*] The 5rd Direct Ph.D. Pilot Program of the Institute of Automation (1/11).
 - [*2023.03*] Technology Star of China University of Petroleum (East China) (1/10).
 - [*2022.05*] Outstanding Student of Shandong Province (0.5%).
-- [*2021.11*] First Prize in the China Undergraduate Mathematical Contest in Modeling (0.7%).
   
-## Scholarships
+## Scholarships & Competitions
 - [*2026.10*] BYD Scholarship.
-- [*2022.12*] China National Scholarship (Undergraduate).
-- [*2021.12*] China National Scholarship (Undergraduate).
-- [*2020.12*] China National Scholarship (Undergraduate).
+- [*2025.08*] International Invention Exhibition Gold Award and Macao Foundation Invention Award (0.4%).
+- [*2019-2023*] China National Scholarship (2020, 2021 and 2022).
+- [*2021.11*] First Prize in the China Undergraduate Mathematical Contest in Modeling (0.7%).
 
 # 📖 Educations
 - *2023.09 - Present*, Ph.D. candidate, Institute of Automation, Chinese Academy of Sciences, Beijing, China.
