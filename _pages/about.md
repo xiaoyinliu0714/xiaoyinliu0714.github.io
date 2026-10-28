@@ -39,9 +39,9 @@ I am currently a Ph.D. student at [Institute of Automation](https://ia.cas.cn/),
 - [*2022.05*] Outstanding Student of Shandong Province (0.5%).
   
 ## Scholarships & Competitions
-- [*2026.10*] BYD Scholarship.
+- [*2026.10*] BYD Scholarship (1/2, Institute of Automation).
 - [*2025.08*] International Invention Exhibition Gold Award and Macao Foundation Invention Award (0.4%).
-- [*2019-2023*] China National Scholarship (2020, 2021 and 2022).
+- [*2019-2023*] China National Scholarship for Undergraduate Students (2020, 2021 and 2022).
 - [*2021.11*] First Prize in the China Undergraduate Mathematical Contest in Modeling (0.7%).
 
 # 📖 Educations
